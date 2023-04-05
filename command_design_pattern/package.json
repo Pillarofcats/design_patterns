@@ -1,17 +1,14 @@
 {
-  "name": "facade_design_pattern",
-  "type":"module",
+  "name": "command_design_pattern",
+  "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node facade_design_pattern.js",
+    "start": "node command_design_pattern.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "axios": "^1.3.4"
-  }
+  "license": "ISC"
 }

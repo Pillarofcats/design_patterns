@@ -1,0 +1,14 @@
+{
+  "name": "null_object_design_pattern",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "null_object_design_pattern.js",
+  "scripts": {
+    "start": "node null_object_design_pattern.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
